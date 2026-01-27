@@ -1,18 +1,21 @@
+## 👋 About Me
 
+Software Engineer with a strong focus on **core engineering principles**, system architecture, and problem solving.  
+I value correctness, performance, and long-term maintainability over short-lived trends.
 
-🧠 Core Technical Expertise
+## 🔧 Expertise & Interests
 
-Domain	Expertise
+- Software design & system architecture  
+- Algorithms and data structures  
+- Backend & systems-oriented development  
+- Databases and data modeling  
+- Reliability, scalability, and clean abstractions  
+- Continuous learning and technical depth
 
-Programming & Logic -->    	C++, C#, Python, JavaScript, Object-Oriented Design, Data Structures, Algorithms
+## 📌 Philosophy
 
-Software Engineering -->  	Clean Architecture, Design Patterns, Code Optimization, Testing & Debugging
+I believe good software is built through discipline, clarity of thought, and respect for fundamentals.
 
-Web Systems --> 	ASP.NET Razor Pages, Vue.js, Bootstrap, REST APIs, Authentication, Dynamic UI
+---
 
-Databases --> 	SQL Server, Entity Framework, Query Optimization, Relational Design
-
-Version Control & Workflow -->  	Git, GitHub, Branching Strategies, Merge Conflict Resolution
-
-Architecture & System Design -->	MVC, Layered Design, Dependency Injection, Scalability Principles
-<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,vue,html,css,bootstrap,dotnet,git,github,sqlserver,vscode,visualstudio" /> </p>
+📫 Open to collaboration on serious, well-structured projects.
