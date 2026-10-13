@@ -1,21 +1,32 @@
-## 👋 About Me
+### Hi, I'm Shamsullah 👋
 
-Software Engineer with a strong focus on **core engineering principles**, system architecture, and problem solving.  
-I value correctness, performance, and long-term maintainability over short-lived trends.
+**Full-stack engineer who builds software for real hospitals.**
+I design systems end to end — schema, API, UI, deployment — for clinics where the internet drops, staff are busy, and the interface has to work in Dari and English.
 
-## 🔧 Expertise & Interests
-
-- Software design & system architecture  
-- Algorithms and data structures  
-- Backend & systems-oriented development  
-- Databases and data modeling  
-- Reliability, scalability, and clean abstractions  
-- Continuous learning and technical depth
-
-## 📌 Philosophy
-
-I believe good software is built through discipline, clarity of thought, and respect for fundamentals.
+- 🏥 Building **[REDMARS](https://github.com/shamsullahfayzi/REDMARS)**, an on-premise hospital management system (NestJS · React · PostgreSQL)
+- 💼 Junior Full-Stack Engineer at **RedwanMarsa ICT**
+- 🎓 B.Sc. Computer Engineering, Kardan University
+- 📍 Dubai, UAE · open to full-stack roles
 
 ---
 
-📫 Open to collaboration on serious, well-structured projects.
+#### ⭐ Featured work
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[REDMARS HMIS](https://github.com/shamsullahfayzi/REDMARS)** | Bilingual, RTL hospital system: reception → consult → lab → billing → pharmacy. RBAC, full audit trail, allergy & drug-interaction checks, load-tested, Dockerized | NestJS · Prisma · PostgreSQL · React 19 · TanStack Query |
+| **[Solar Taxi Roof Sign](https://github.com/shamsullahfayzi/solar-taxi-label)** | Phone controller + real-time 3D twin of a solar LED roof sign, with a Bluetooth transport layer ready for ESP32 hardware | React Three Fiber · Three.js · Zustand · Web Bluetooth |
+| **[Zoya Clinic](https://github.com/shamsullahfayzi/Zoya)** | Patient registration and appointment manager for a clinic | Angular · Angular Material · JWT |
+| **[MusicMingle](https://github.com/shamsullahfayzi/MusicMingle)** | Event discovery and booking site with an admin back office | ASP.NET Core 9 · EF Core · Identity |
+
+#### 🛠 Tech
+
+**Frontend** &nbsp; React · Next.js · TypeScript · Angular · Tailwind · Three.js
+**Backend** &nbsp; Node.js · NestJS · Python / FastAPI · C# / ASP.NET Core · Blazor
+**Data** &nbsp; PostgreSQL · Prisma · SQL Server · SQLite
+**Desktop & Ops** &nbsp; Electron · Docker · Caddy · Linux
+
+#### 📫 Contact
+
+<!-- Add your links: -->
+<!-- [LinkedIn](https://linkedin.com/in/...) · [Portfolio](https://...) · [Email](mailto:...) -->
