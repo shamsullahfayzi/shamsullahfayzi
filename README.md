@@ -17,6 +17,8 @@ I design systems end to end — schema, API, UI, deployment — for clinics wher
 | **[REDMARS HMIS](https://github.com/shamsullahfayzi/REDMARS)** | Bilingual, RTL hospital system: reception → consult → lab → billing → pharmacy. RBAC, full audit trail, allergy & drug-interaction checks, load-tested, Dockerized | NestJS · Prisma · PostgreSQL · React 19 · TanStack Query |
 | **[Solar Taxi Roof Sign](https://github.com/shamsullahfayzi/solar-taxi-label)** | Phone controller + real-time 3D twin of a solar LED roof sign, with a Bluetooth transport layer ready for ESP32 hardware | React Three Fiber · Three.js · Zustand · Web Bluetooth |
 | **[Zoya Clinic](https://github.com/shamsullahfayzi/Zoya)** | Patient registration and appointment manager for a clinic | Angular · Angular Material · JWT |
+| **[Zombie Typing](https://github.com/shamsullahfayzi/zombie-typing)** | Typing game: shoot zombies by typing their words. WPM leaderboard, pooled audio, English/Dari/Pashto with RTL | React 19 · Tailwind · Netlify |
+| **[Job Center](https://github.com/shamsullahfayzi/job-center)** | Two-sided job board: seekers apply, employers post jobs and review applicants | React 19 · React Router · Tailwind |
 | **[MusicMingle](https://github.com/shamsullahfayzi/MusicMingle)** | Event discovery and booking site with an admin back office | ASP.NET Core 9 · EF Core · Identity |
 
 #### 🛠 Tech
