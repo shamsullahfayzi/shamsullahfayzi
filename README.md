@@ -23,10 +23,24 @@ I design systems end to end — schema, API, UI, deployment — for clinics wher
 
 #### 🛠 Tech
 
-**Frontend** &nbsp; React · Next.js · TypeScript · Angular · Tailwind · Three.js
-**Backend** &nbsp; Node.js · NestJS · Python / FastAPI · C# / ASP.NET Core · Blazor
-**Data** &nbsp; PostgreSQL · Prisma · SQL Server · SQLite
-**Desktop & Ops** &nbsp; Electron · Docker · Caddy · Linux
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,angular,tailwind,threejs,redux,materialui,vite,html,css" alt="React, Next.js, TypeScript, JavaScript, Angular, Tailwind CSS, Three.js, Redux, Material UI, Vite, HTML, CSS" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,py,fastapi,cs,dotnet" alt="Node.js, NestJS, Python, FastAPI, C#, .NET" />
+&nbsp;<img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" height="32" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,prisma,sqlite" alt="PostgreSQL, Prisma, SQLite" />
+&nbsp;<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="32" />
+
+**Desktop, DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=electron,docker,linux,git,github,netlify,vscode,visualstudio" alt="Electron, Docker, Linux, Git, GitHub, Netlify, VS Code, Visual Studio" />
+&nbsp;<img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" alt="Caddy" height="32" />
 
 #### 📫 Contact
 
