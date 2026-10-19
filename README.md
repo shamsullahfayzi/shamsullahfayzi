@@ -31,7 +31,7 @@ Client and team work with private code: a travel-agency system that cut manual p
 
 ### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,blazor,tailwind,threejs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,asp,tailwind,threejs" />
 </p>
 
 ### Backend
