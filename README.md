@@ -60,7 +60,7 @@ SQL Server · Oracle
 **AI / ML**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,huggingface,azure" />
+  <img src="https://skillicons.dev/icons?i=pytorch,azure" />
 </p>
 
 LLM Integration · RAG Pipelines · Prompt Engineering · MCP Services · Azure AI Document Intelligence · OCR (Tesseract) · Face Recognition
