@@ -21,15 +21,34 @@ My best-known work is **[REDMARS](https://github.com/shamsullahfayzi/REDMARS)**,
 
 Client and team work with private code: a travel-agency system that cut manual processing time by 75% using Azure AI Document Intelligence and OCR, a face-recognition attendance system at 98% accuracy, an e-commerce platform, and a desktop prescription app used by several doctors.
 
+
 ## Stack
 
-|  |  |
-|---|---|
-| **Languages** | TypeScript · JavaScript · Python · C# · Java · SQL |
-| **Frontend** | React · Next.js · Angular · Blazor · Tailwind · Three.js |
-| **Backend** | Node.js · NestJS · FastAPI · ASP.NET Core |
-| **Data** | PostgreSQL · SQL Server · Prisma |
-| **Ship** | Docker · Caddy · Azure · Git |
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cs,java" />
+</p>
+
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,blazor,tailwind,threejs" />
+</p>
+
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,dotnet" />
+</p>
+
+### Data
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,sqlserver,prisma" />
+</p>
+
+### DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,azure,git" />
+</p>
+
 
 ## Say hello
 
