@@ -24,30 +24,62 @@ Client and team work with private code: a travel-agency system that cut manual p
 
 ## Stack
 
-### Languages
+
+## Stack
+
+**Languages**
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cs,java" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cs,java,go" />
 </p>
 
-### Frontend
+**Frontend**
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,threejs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind,materialui,redux" />
 </p>
 
-### Backend
+Blazor (.NET 8) · Chakra UI · TanStack Query
+
+**Backend**
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,dotnet" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,dotnet" />
 </p>
 
-### Data
+REST APIs · JWT Authentication · Role-Based Access Control
+
+**Databases**
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,firebase,mongodb,prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,firebase,supabase" />
 </p>
 
-### DevOps & Tools
+SQL Server · Oracle
+
+**AI / ML**
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,azure,linux,github,git" />
+  <img src="https://skillicons.dev/icons?i=pytorch,huggingface,azure" />
 </p>
+
+LLM Integration · RAG Pipelines · Prompt Engineering · MCP Services · Azure AI Document Intelligence · OCR (Tesseract) · Face Recognition
+
+**3D & Devices**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=threejs,react" />
+</p>
+
+React Three Fiber · Web Bluetooth
+
+**Desktop & DevOps**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=electron,java,docker,linux,azure,git,github,githubactions" />
+</p>
+
+JavaFX · Caddy · CI/CD
 
 
 ## Say hello
