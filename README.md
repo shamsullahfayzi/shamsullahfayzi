@@ -41,12 +41,12 @@ Client and team work with private code: a travel-agency system that cut manual p
 
 ### Data
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,oracle,prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres,firebase,mongodb,prisma" />
 </p>
 
 ### DevOps & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,azure,git" />
+  <img src="https://skillicons.dev/icons?i=docker,azure,linux,github,git" />
 </p>
 
 
