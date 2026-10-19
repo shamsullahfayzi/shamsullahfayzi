@@ -1,48 +1,89 @@
-### Hi, I'm Shamsullah 👋
+<a href="https://shamsullahfayzi.dev">
+  <img src="assets/banner.png" alt="Shamsullah Fayzi, full-stack software engineer. shamsullahfayzi.dev" width="100%">
+</a>
 
-**Full-stack engineer who builds software for real hospitals.**
-I design systems end to end — schema, API, UI, deployment — for clinics where the internet drops, staff are busy, and the interface has to work in Dari and English.
+I'm a full-stack engineer. I take a product from the first conversation to a running deployment: database design, APIs, web and desktop interfaces, AI features and real-time 3D.
 
-- 🏥 Building **[REDMARS](https://github.com/shamsullahfayzi/REDMARS)**, an on-premise hospital management system (NestJS · React · PostgreSQL)
-- 💼 Junior Full-Stack Engineer at **RedwanMarsa ICT**
-- 🎓 B.Sc. Computer Engineering, Kardan University
-- 📍 Dubai, UAE · open to full-stack roles
+My best-known work is **[REDMARS](https://github.com/shamsullahfayzi/REDMARS)**, a bilingual, right-to-left hospital management system that runs on-premise, built with a Kabul hospital as design partner. It has a 47-table PostgreSQL schema, 30+ API modules, server-enforced permissions with a full audit trail, and allergy hard-blocks at prescribing. It was load-tested and ships as Docker containers with nightly backups and a verified restore.
 
----
+**[shamsullahfayzi.dev](https://shamsullahfayzi.dev)** has the interactive versions of everything below.
 
-#### ⭐ Featured work
+## Selected work
 
-| Project | What it is | Stack |
+| Project | What it is | Built with |
 |---|---|---|
-| **[REDMARS HMIS](https://github.com/shamsullahfayzi/REDMARS)** | Bilingual, RTL hospital system: reception → consult → lab → billing → pharmacy. RBAC, full audit trail, allergy & drug-interaction checks, load-tested, Dockerized | NestJS · Prisma · PostgreSQL · React 19 · TanStack Query |
-| **[Solar Taxi Roof Sign](https://github.com/shamsullahfayzi/solar-taxi-label)** | Phone controller + real-time 3D twin of a solar LED roof sign, with a Bluetooth transport layer ready for ESP32 hardware | React Three Fiber · Three.js · Zustand · Web Bluetooth |
-| **[Zoya Clinic](https://github.com/shamsullahfayzi/Zoya)** | Patient registration and appointment manager for a clinic | Angular · Angular Material · JWT |
-| **[Zombie Typing](https://github.com/shamsullahfayzi/zombie-typing)** | Typing game: shoot zombies by typing their words. WPM leaderboard, pooled audio, English/Dari/Pashto with RTL | React 19 · Tailwind · Netlify |
-| **[Job Center](https://github.com/shamsullahfayzi/job-center)** | Two-sided job board: seekers apply, employers post jobs and review applicants | React 19 · React Router · Tailwind |
-| **[MusicMingle](https://github.com/shamsullahfayzi/MusicMingle)** | Event discovery and booking site with an admin back office | ASP.NET Core 9 · EF Core · Identity |
+| [**REDMARS**](https://github.com/shamsullahfayzi/REDMARS) | Hospital management: registration, queues, consultation, lab, billing, pharmacy and reports | NestJS · Prisma · PostgreSQL · React 19 · TanStack Query · Docker |
+| [**Solar Taxi Roof Sign**](https://github.com/shamsullahfayzi/solar-taxi-label) | Phone controller and a real-time 3D twin of a solar LED roof sign, with a Bluetooth layer that swaps between simulator and ESP32 hardware | React Three Fiber · Three.js · Zustand · Web Bluetooth |
+| [**Zombie Typing**](https://github.com/shamsullahfayzi/zombie-typing) | Typing game with live WPM and accuracy, a leaderboard and a pooled audio engine | React 19 · Tailwind · Netlify |
+| [**Zoya Clinic**](https://github.com/shamsullahfayzi/Zoya) | Patient registration and appointment tracking with role-guarded routes | Angular 16 · Angular Material · RxJS · JWT |
+| [**Job Center**](https://github.com/shamsullahfayzi/job-center) | Two-sided job board for seekers and employers | React 19 · React Router · Tailwind |
+| [**MusicMingle**](https://github.com/shamsullahfayzi/MusicMingle) | Event booking site with an admin back office | ASP.NET Core 9 · EF Core · Identity |
 
-#### 🛠 Tech
+Client and team work with private code: a travel-agency system that cut manual processing time by 75% using Azure AI Document Intelligence and OCR, a face-recognition attendance system at 98% accuracy, an e-commerce platform, and a desktop prescription app used by several doctors.
+
+
+## Stack
+
+
+## Stack
+
+**Languages**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cs,java,go" />
+</p>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,angular,tailwind,threejs,redux,materialui,vite,html,css" alt="React, Next.js, TypeScript, JavaScript, Angular, Tailwind CSS, Three.js, Redux, Material UI, Vite, HTML, CSS" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind,materialui,redux" />
+</p>
+
+Blazor (.NET 8) · Chakra UI · TanStack Query
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,py,fastapi,cs,dotnet" alt="Node.js, NestJS, Python, FastAPI, C#, .NET" />
-&nbsp;<img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" height="32" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,dotnet" />
+</p>
+
+REST APIs · JWT Authentication · Role-Based Access Control
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,prisma,sqlite" alt="PostgreSQL, Prisma, SQLite" />
-&nbsp;<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="32" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,firebase,supabase" />
+</p>
 
-**Desktop, DevOps & Tools**
+SQL Server · Oracle
 
-<img src="https://skillicons.dev/icons?i=electron,docker,linux,git,github,netlify,vscode,visualstudio" alt="Electron, Docker, Linux, Git, GitHub, Netlify, VS Code, Visual Studio" />
-&nbsp;<img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" alt="Caddy" height="32" />
+**AI / ML**
 
-#### 📫 Contact
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,azure" />
+</p>
 
-<!-- Add your links: -->
-<!-- [LinkedIn](https://linkedin.com/in/...) · [Portfolio](https://...) · [Email](mailto:...) -->
+LLM Integration · RAG Pipelines · Prompt Engineering · MCP Services · Azure AI Document Intelligence · OCR (Tesseract) · Face Recognition
+
+**3D & Devices**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=threejs,react" />
+</p>
+
+React Three Fiber · Web Bluetooth
+
+**Desktop & DevOps**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=electron,java,docker,linux,azure,git,github,githubactions" />
+</p>
+
+JavaFX · Caddy · CI/CD
+
+
+## Say hello
+
+I'm open to full-stack roles and freelance projects.
+
+[shamsullahfayzi.dev](https://shamsullahfayzi.dev) · [hello@shamsullahfayzi.dev](mailto:hello@shamsullahfayzi.dev) · [LinkedIn](https://www.linkedin.com/in/shamsullah-fayzi-b41884380/)
