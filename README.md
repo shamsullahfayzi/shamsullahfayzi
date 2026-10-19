@@ -41,7 +41,7 @@ Client and team work with private code: a travel-agency system that cut manual p
 
 ### Data
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,sql,prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres,oracle,prisma" />
 </p>
 
 ### DevOps & Tools
